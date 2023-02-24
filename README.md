@@ -9,5 +9,5 @@ This app will run in the browser, and features dynamically updated HTML and CSS 
 ## Snapshot
 ![Capture](https://user-images.githubusercontent.com/112564483/221258476-bb1578c7-b365-4bc1-91d5-bda2e57bddad.JPG)
 
-## Link to recording
+## Link to deployment
 [Quizz](https://mi-str.github.io/Quizz/)
